@@ -16,3 +16,4 @@ export interface noticeType {
   date: string;
   URL: string;
 }
+ 
